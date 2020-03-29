@@ -1,0 +1,25 @@
+body {
+    background: url(/images/background.jpg) no-repeat center;
+    background-size: cover;
+}
+.body{
+  align-self: center;
+  margin: auto;
+  padding:10px 50px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 0;
+  color: black;
+}
+hr{
+  position: relative;
+  top: 0;
+  border: none;
+  width : 15.5rem;
+  height: 5px;
+  background: black;
+  margin-bottom: 50px;
+}
+/* .content{
+  margin-top: 175px;
+} */
