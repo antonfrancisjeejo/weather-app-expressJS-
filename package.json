@@ -1,6 +1,6 @@
 {
   "name": "weather-project",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Displays current weather using openweather API",
   "main": "app.js",
   "scripts": {
