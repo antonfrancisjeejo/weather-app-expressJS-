@@ -7,6 +7,7 @@ $ npm install express
 
 $ npm install body-parser
 
-## API 
-Openweathermap API
+$ npm install ejs
 
+## API
+Openweathermap API
