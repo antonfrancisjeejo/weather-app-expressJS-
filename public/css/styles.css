@@ -1,6 +1,7 @@
 body {
-    background: url(/images/background.jpg) no-repeat center;
-    background-size: cover;
+    background: url(/images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 .body{
   align-self: center;
